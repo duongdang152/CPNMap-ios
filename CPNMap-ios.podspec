@@ -67,7 +67,7 @@ Pod::Spec.new do |s|
     s.vendored_frameworks = "Maps.framework"
     s.platform = :ios
     s.swift_version = "4.2"
-    s.ios.deployment_target  = '11.0'
+    s.ios.deployment_target  = '9.0'
 
   # s.public_header_files = "Classes/**/*.h"
 
